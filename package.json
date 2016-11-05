@@ -1,0 +1,34 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "week 13 homework, find people to hang out with, no actual socialization requried",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonie-marie/FriendFinder.git"
+  },
+  "keywords": [
+    "homework",
+    "sorry",
+    "i'm",
+    "terrible",
+    "at",
+    "this"
+  ],
+  "author": "tonie torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonie-marie/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/tonie-marie/FriendFinder#readme"
+}
